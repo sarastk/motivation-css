@@ -10,9 +10,9 @@ h1{
 }
 
 div{
-
     color: aliceblue;
     width: 50%;
+    margin-top: 20%;
     margin-left: 25%;
     text-align: center;
 }
@@ -20,4 +20,5 @@ div{
 img{
     width: 100%;
     border: 5px solid white;
+
 }
